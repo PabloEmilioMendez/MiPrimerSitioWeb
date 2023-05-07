@@ -1,0 +1,25 @@
+body {
+    background-color: gray;
+}
+
+.container {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.container img {
+    width: 600px;
+    height: 600px;
+}
+
+.container h1{
+    background-color: #fff;
+    text-align: center;
+}
+
+.container p{
+    background-color: #fff;      
+    
+}
+
+
